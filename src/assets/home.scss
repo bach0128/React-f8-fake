@@ -1,0 +1,19 @@
+.account {
+    margin: 30px;
+    height: 300px;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 1em;
+    button {
+        width: 200px;
+        height: 40px;
+        background-color: rgb(255, 87, 34);
+        font-weight: bold;
+        color: #fff;
+    }
+    button:hover {
+        background-color: rgb(178, 60, 23);
+        color: #fff;
+
+    }
+}
